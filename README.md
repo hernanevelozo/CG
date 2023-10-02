@@ -3,7 +3,7 @@
 
 ## Atividade: M1 - Geração procedural e Voxel
 
-Código fonte de uma pequena ferramenta que utilize voxel, conforme exemplos desenvolvidos na disciplina Computação Gráfica Digitais da [PUC Minas](http://www.pucminas.br/).
+Código fonte de uma pequena ferramenta que utilize voxel, conforme exemplos desenvolvidos na disciplina Computação Gráfica da [PUC Minas](http://www.pucminas.br/).
  
 ## Objetivo
 O objetivo do trabalho é mostrar a habilidade de utilizar blocos para construção de formas em espaço tridimensional.
